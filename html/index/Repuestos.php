@@ -1,48 +1,7 @@
-<html>
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, maximum-scale=1">
-    <title>FFVENTAS - Repuestos Automotriz | Kit de tiempo, Compresor, Alternador</title>
-<link rel="icon" href="views/favicon.png" type="image/png">
-<link href="views/css/bootstrap.min.css" rel="stylesheet" type="text/css">
-<link rel="stylesheet" href="views/js/fancybox/jquery.fancybox.css" type="text/css" media="screen" />
-<link href="views/css/style.css" rel="stylesheet" type="text/css">
-<link href="views/css/font-awesome.css" rel="stylesheet" type="text/css">
-<link href="views/css/animate.css" rel="stylesheet" type="text/css">
-
-<!--[if lt IE 9]>
-    <script src="js/respond-1.1.0.min.js"></script>
-    <script src="js/html5shiv.js"></script>
-    <script src="js/html5element.js"></script>
-<![endif]-->
-
-</head>
+<?php include ('html/overall/header.php');?>
 <body>
 
-<!--Header_section-->
-<header id="header_wrapper">
-  <div class="container">
-    <div class="header_box">
-    <!--  <div class="logo"><a href="#"><img src="views/img/logo.png" alt="logo"></a></div>-->
-	  <nav class="navbar navbar-inverse" role="navigation">
-      <div class="navbar-header">
-        <button type="button" id="nav-toggle" class="navbar-toggle" data-toggle="collapse" data-target="#main-nav"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-        </div>
-	    <div id="main-nav" class="collapse navbar-collapse navStyle">
-			<ul class="nav navbar-nav" id="mainNav">
-			  <li><a href="index.php#hero_section" class="scroll-link">Inicio</a></li>
-                <li><a href="index.php#clients" class="scroll-link">Marcas</a></li>
-                <li><a href="index.php#service" class="scroll-link">Tipos</a></li>
-			  <li><a href="index.php#aboutUs" class="scroll-link">Lista</a></li>
-			  <li class="active"><a href="#Portfolio" class="scroll-link">Imagenes</a></li>
-			  <li><a href="index.php#contact" class="scroll-link">Contáctanos</a></li>
-			</ul>
-      </div>
-	 </nav>
-    </div>
-  </div>
-</header>
-<!--Header_section-->
+<?php include ('html/overall/menu.php');?>
 
 
 <!-- Portfolio -->
@@ -222,30 +181,7 @@
 
 <!--Footer-->
 <footer class="footer_wrapper">
-  <div class="container">
-
-      <div class="top_left_cont intro zoomIn wow animated" style="padding: 10px 0;">
-          <ul class="social_links">
-              <li class="instagram animated bounceIn wow delay-02s animated" style="visibility: visible; animation-name: bounceIn;"><a href="javascript:void(0)"><i class="fa fa-instagram"></i></a></li>
-              <li class="facebook animated bounceIn wow delay-03s animated" style="visibility: visible; animation-name: bounceIn;"><a href="javascript:void(0)"><i class="fa fa-facebook"></i></a></li>
-              <li class="gplus animated bounceIn wow delay-05s animated" style="visibility: visible; animation-name: bounceIn;"><a href="javascript:void(0)"><i class="fa fa-google-plus"></i></a></li>
-          </ul> </div>
-
-      <div class="footer_bottom"><span>Copyright © 2017,    Unico para <a href="#">FFVENTAS.COM</a>. </span> </div>
-  </div>
-</footer>
-
-<script type="text/javascript" src="views/js/jquery-1.11.0.min.js"></script>
-<script type="text/javascript" src="views/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="views/js/jquery-scrolltofixed.js"></script>
-<script type="text/javascript" src="views/js/jquery.nav.js"></script>
-<script type="text/javascript" src="views/js/jquery.easing.1.3.js"></script>
-<script type="text/javascript" src="views/js/jquery.isotope.js"></script>
-<script src="views/js/fancybox/jquery.fancybox.pack.js" type="text/javascript"></script>
-<script type="text/javascript" src="views/js/wow.js"></script>
- <script src="views/contact/jqBootstrapValidation.js"></script>
- <script src="views/contact/contact_me.js"></script>
-<script type="text/javascript" src="views/js/custom.js"></script>
+<?php include ('html/overall/footer.php');?>
 
 </body>
 </html>

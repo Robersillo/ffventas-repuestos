@@ -1,4 +1,13 @@
 <div class="container">
+
+<h4 style="font-weight: 700!important;color: #41699a;">Redes Sociales</h4>
+        <div class="top_left_cont intro zoomIn wow animated" style="padding: 10px 0;">
+            <ul class="social_links">
+                <li class="instagram animated bounceIn wow delay-02s animated" style="visibility: visible; animation-name: bounceIn;"><a href="javascript:void(0)"><i class="fa fa-instagram"></i></a></li>
+                <li class="facebook animated bounceIn wow delay-03s animated" style="visibility: visible; animation-name: bounceIn;"><a href="javascript:void(0)"><i class="fa fa-facebook"></i></a></li>
+                <li class="gplus animated bounceIn wow delay-05s animated" style="visibility: visible; animation-name: bounceIn;"><a href="javascript:void(0)"><i class="fa fa-google-plus"></i></a></li>
+            </ul> </div>
+
   <div class="footer_bottom"><span>Copyright © 2017,    Unico para <a href="http://webthemez.com">FFVENTAS.COM</a>. </span> </div>
 </div>
 </footer>

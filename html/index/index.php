@@ -35,32 +35,7 @@
 </section>
 <!--Hero_Section-->
 
-<!--Header_section-->
-<header id="header_wrapper">
-  <div class="container">
-    <div class="header_box">
-    <!--  <div class="logo"><a href="#"><img src="img/logo.png" alt="logo"></a></div>-->
-	  <nav class="navbar navbar-inverse" role="navigation">
-      <div class="navbar-header">
-        <button type="button" id="nav-toggle" class="navbar-toggle" data-toggle="collapse" data-target="#main-nav"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-          <!-- Logo -->
-
-      </div>
-	    <div id="main-nav" class="collapse navbar-collapse navStyle">
-			<ul class="nav navbar-nav" id="mainNav">
-			  <li class="active"><a href="#hero_section" class="scroll-link">Inicio</a></li>
-              <li><a href="#clients" class="scroll-link">Marcas</a></li>
-			  <li><a href="#service" class="scroll-link">Tipos</a></li>
-                <li><a href="#aboutUs" class="scroll-link">Lista</a></li>
-			  <li><a href="./?view=Repuestos" class="scroll-link">Imagenes</a></li>
-			  <li><a href="#contact" class="scroll-link">Contáctanos</a></li>
-			</ul>
-      </div>
-	 </nav>
-    </div>
-  </div>
-</header>
-<!--Header_section-->
+<?php include ('html/overall/menu.php');?>
 
 <section class="page_section" id="clients"><!--page_section-->
     <h2>Marcas con las que trabajamos</h2>
@@ -234,17 +209,6 @@ from informacion_repuestos
                                 <h4 style="font-weight: 700!important;color: #41699a;">Envianos un Email</h4>
                                 <p>repuestos@ffventas.com</p>
                             </div>
-
-
-
-            <div class="detail">
-                <h4 style="font-weight: 700!important;color: #41699a;">Redes Sociales</h4>
-            <ul class="social_links">
-            <li class="instagram animated bounceIn wow delay-02s"><a href="javascript:void(0)"><i class="fa fa-instagram"></i></a></li>
-            <li class="facebook animated bounceIn wow delay-03s"><a href="javascript:void(0)"><i class="fa fa-facebook"></i></a></li>
-            <li class="gplus animated bounceIn wow delay-05s"><a href="javascript:void(0)"><i class="fa fa-google-plus"></i></a></li>
-          </ul>
-            </div>
 
          </div>
 
