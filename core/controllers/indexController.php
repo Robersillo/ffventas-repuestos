@@ -1,3 +1,3 @@
 <?php
 
-include('OLDindex.html');
+include('html/index/index.php');
