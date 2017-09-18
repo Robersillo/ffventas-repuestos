@@ -119,7 +119,7 @@
                                     <div class="portlet-body">
 
 <?php
-include('conex.php');
+include('conexs/conex.php');
  $result = mysqli_query($link,"
 
 select *
