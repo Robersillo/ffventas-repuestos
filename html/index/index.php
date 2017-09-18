@@ -133,12 +133,12 @@ from informacion_repuestos
                                         Código
                                     </th>
                                     <th>
+                                        Marca
+                                    </th>
+                                    <th>
                                         Tipo de Repuesto
                                     </th>
 
-                                    <th>
-                                        Marca
-                                    </th>
                                     <th>
                                         Modelo
                                     </th>
@@ -156,8 +156,8 @@ from informacion_repuestos
                                 while ($row=mysqli_fetch_array($result))
                                 {
                                     echo '<tr><td>'.$row["codigo"].'</td>';
-                                    echo '<td>'.$row["tipo_repuesto"].'</td>';
                                     echo '<td>'.$row["marca"].'</td>';
+                                    echo '<td>'.$row["tipo_repuesto"].'</td>';
                                     echo '<td>'.$row["modelos"].'</td>';
                                     echo '<td>'.$row["ano"].'</td>';
                                     echo '<td>'.$row["cantidad"].'</td>';
