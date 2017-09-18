@@ -3,7 +3,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, maximum-scale=1">
 <title>FFVENTAS - Repuestos Automotriz | Kit de tiempo, Compresor, Alternador</title>
-    <link rel="icon" href="favicon.png" type="views/image/png">
+    <link rel="icon" href="views/favicon.png" type="views/image/png">
 <link href="views/css/bootstrap.min.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" href="views/js/fancybox/jquery.fancybox.css" type="text/css" media="screen" />
 <link href="views/css/style.css" rel="stylesheet" type="text/css">
