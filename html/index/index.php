@@ -64,7 +64,7 @@
 <section  id="service">
   <div class="container">
     <h2>Tipos de Repuestos </h2>
-	<h6>Tenemos 4 tipos diferentes de repuesto automotriz de varias marcas y modelos. <br>
+	<h6>Tenemos 3 tipos diferentes de repuesto automotriz de varias marcas y modelos. <br>
         Pide <strong><a href="#contact" style="color: #13ec13;">AQUI</a></strong> tu repuesto</h6>
     <div class="service_wrapper">
       <div class="row">
