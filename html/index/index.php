@@ -199,8 +199,8 @@ from informacion_repuestos
 		 <div class="contact_info">
                             <div class="detail">
                                 <h4 style="font-weight: 700!important;color: #41699a;">Llamanos</h4>
-                                <p>04244679642<br>
-                                04244679642</p>
+                                <p>04143412797<br>
+                                04123429162</p>
                             </div>
                             <div class="detail">
                                 <h4 style="font-weight: 700!important;color: #41699a;">Envianos un Email</h4>
