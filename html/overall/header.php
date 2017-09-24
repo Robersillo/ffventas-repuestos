@@ -1,5 +1,17 @@
 <html>
 <head>
+
+  <!-- Global Site Tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-81404925-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments)};
+    gtag('js', new Date());
+  
+    gtag('config', 'UA-81404925-2');
+  </script>
+  <!-- Global Site Tag (gtag.js) - Google Analytics -->
+
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, maximum-scale=1">
 <title>FFVENTAS - Repuestos Automotriz | Kit de tiempo, Compresor, Alternador</title>
