@@ -229,17 +229,6 @@ from informacion_repuestos
 			   		   data-validation-required-message="Por favor, escriba su email" />
 		</div>
 	    </div>
-
-            <div class="control-group">
-                <div class="controls">
-                    <input type="number" class="form-control" placeholder="Numero de contacto"
-                           id="numero" required
-                           data-validation-required-message="Por favor, escriba su numero de telefono" minlength="11"
-                           data-validation-minlength-message="Minimo 11 caracteres"
-                           maxlength="11" data-validation-maxlength-message="Muy largo. Maximo 11 caracteres" />
-                </div>
-            </div>
-
             <div class="control-group">
                  <div class="controls">
 				 <textarea rows="10" cols="100" class="form-control"
